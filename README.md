@@ -37,13 +37,13 @@ Website ini tidak menggunakan framework JavaScript atau library eksternal, sehin
 1. Clone repository:
 
 	```bash
-	git clone https://github.com/KaitooAnjay/Teduh_SMK-Negeri-1-Gunung-Jati-KAMPUS_HIMASANTIKA.git
+	git clone https://github.com/KaitooAnjay/AnimasiGJ_SMK-Negeri-1-Gunung-Jati-KAMPUS_HIMASANTIKA.git
 	```
 
 2. Masuk ke folder project:
 
 	```bash
-	cd Teduh_SMK-Negeri-1-Gunung-Jati-KAMPUS_HIMASANTIKA
+	cd AnimasiGJ_SMK-Negeri-1-Gunung-Jati-KAMPUS_HIMASANTIKA
 	```
 
 3. Jalankan server lokal:
